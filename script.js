@@ -1,3 +1,5 @@
+window.onload = init;
+function init() {
 const h1 = document.getElementById("h1");
 const h1c = document.getElementById("h1c");
 h1.onclick = function () {
@@ -18,3 +20,4 @@ const pilotc = document.getElementById("pilotc");
 pilot.onclick = function () {
   pilotc.hidden = !pilotc.hidden;
 };
+}
