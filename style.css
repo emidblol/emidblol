@@ -41,6 +41,8 @@ p {
 img {
   border-radius: 25px;
   margin: 1.5em;
+  width:50%;
+  align-self:center;
 }
 .nodeco {
   text-decoration: none;
