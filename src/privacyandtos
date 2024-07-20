@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy and Terms of Service</title>
+</head>
+<body>
+    <h1>Privacy Policy</h1>
+    <p><strong>Information Collection and Use</strong></p>
+    <p>We use Google Analytics with Google Signals enabled to collect general information about our website visitors, such as their location. We use cookies and may offer user accounts on some sites to enhance user experience and collect analytics data.</p>
+
+    <!-- Add other privacy policy content here -->
+
+    <h1>Terms of Service</h1>
+    <p><strong>Acceptance of TOS</strong></p>
+    <p>By agreeing to the use of cookies on our website, users agree to abide by our Terms of Service. Additionally, by agreeing to this statement, you acknowledge that I am cool (this part is intended for humor and is not legally binding).</p>
+
+    <p><strong>User Responsibilities</strong></p>
+    <p>Users must not engage in any malicious activities on our website.</p>
+
+    <p><strong>User-Generated Content (UGC)</strong></p>
+    <p>UGC must adhere to the laws of the user's country and the EU, including avoiding copyright infringement.</p>
+
+    <p><strong>Copyright Infringement</strong></p>
+    <p>We do not actively monitor UGC for copyright infringement. If you believe copyright infringement has occurred, please contact us at info@emidblol.dev.</p>
+
+    <p><strong>Termination of Access</strong></p>
+    <p>We reserve the right to terminate a user's access if we believe they are violating these Terms of Service or displaying hostility towards us.</p>
+
+    <p><strong>Bullying and Controversies</strong></p>
+    <p>Bullying and controversies are not allowed on our website. We may terminate access in such cases.</p>
+
+    <p><strong>Liability</strong></p>
+    <p>As a minor, I am 14 years old, creating websites for personal use. I am not liable for actions or content on our website.</p>
+
+    <p><strong>Jurisdiction</strong></p>
+    <p>These Terms of Service are governed by the laws of the EU, specifically Belgium.</p>
+
+    <p><strong>Changes to TOS</strong></p>
+    <p>Users will be informed of any changes to our Terms of Service.</p>
+
+    <footer>
+        <p>Contact: <a href="mailto:info@emidblol.dev">info@emidblol.dev</a></p>
+    </footer>
+</body>
+</html>
